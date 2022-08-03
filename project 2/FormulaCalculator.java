@@ -3,7 +3,7 @@ import java.util.Scanner;
  * Program to calculate the results for the inputted values
  * of x, y, and z into a formula.
  *
- * @author Christinaa Danks
+ * @author Christina L
  * @version 08/24/2020
  */
 public class FormulaCalculator {

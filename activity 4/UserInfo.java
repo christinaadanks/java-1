@@ -1,7 +1,7 @@
 /**
  * Activity for writing user defined classes.
  *
- * @author Christinaa Danks
+ * @author Christina L
  * @version 9/8/2020
  */
  

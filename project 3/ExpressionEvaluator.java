@@ -4,7 +4,7 @@ import java.text.DecimalFormat;
 /**
  * Program to calculate a mathematical expression and format the result.
  *
- * @author Christinaa Danks
+ * @author Christina L
  * @version 9/2/2020
  */
 public class ExpressionEvaluator {

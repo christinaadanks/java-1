@@ -4,7 +4,7 @@ import java.io.IOException;
   
 /**
  * Program to print and edit a read in file.
- * @author Christinaa Danks
+ * @author Christina L
  * @version 9/26/2020
  */
 

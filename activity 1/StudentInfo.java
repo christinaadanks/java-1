@@ -2,7 +2,7 @@
 * Simple program to print student information.
 *
 * Activity 1
-* @author Christinaa Danks
+* @author Christina L
 * @version 8/18/2020
 */
 public class StudentInfo

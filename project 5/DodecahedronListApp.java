@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * Program that read in data file information.
  *
- * @author Christinaa Danks
+ * @author Christina L
  * @version 9/17/2020
  */
 

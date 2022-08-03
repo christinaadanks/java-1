@@ -1,7 +1,7 @@
 /**
  * NumberOperations class that stores the label, color, and edge.
  *
- * @author Christinaa Danks
+ * @author Christina L
  * @version 9/15/2020
  */
 

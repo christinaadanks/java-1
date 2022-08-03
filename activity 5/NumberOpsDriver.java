@@ -3,7 +3,7 @@ import java.util.ArrayList;
 
 /**
  * Demonstrates the NumberOperations class.
- * @author Christinaa Danks
+ * @author Christina L
  * @version 9/15/2020
  */
 public class NumberOpsDriver {

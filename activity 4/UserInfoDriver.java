@@ -1,7 +1,7 @@
 /**
  * Program that creates instances of UserInfo and call its methods.
  *
- * @author Christinaa Danks
+ * @author Christina L
  * @version 9/8/2020
  */
  

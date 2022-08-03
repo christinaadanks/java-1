@@ -3,7 +3,7 @@ import java.util.Scanner;
  * Program to calculate max heart rate based on the
  * user's age and gender.
  *
- * @author Christinaa Danks
+ * @author Christina L
  * @version 08/24/2020
  */
 public class AgeStatistics   {

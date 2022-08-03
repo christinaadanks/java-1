@@ -6,7 +6,7 @@ import java.util.Random;
  * Program that prints detailed ticket information from an inputted
  * ticket code, and generates a random prize number.
  *
- * @author Christinaa Danks
+ * @author Christina L
  * @version 9/2/2020
  */
 

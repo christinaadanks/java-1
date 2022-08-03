@@ -3,7 +3,7 @@ import java.util.Scanner;
  * Program to calculate the minimum number of each paper currency
  * denominations for an inputted dollar amount.
  *
- * @author Christinaa Danks
+ * @author Christina L
  * @version 08/24/2020
  */
 public class ATM {

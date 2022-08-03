@@ -1,7 +1,7 @@
 /** 
  * Prints a description of the course. 
  *
- * @author Christinaa Danks
+ * @author Christina L
  * @version 08/18/2020
  */
 public class CourseInfo {

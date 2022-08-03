@@ -2,7 +2,7 @@
  * Program to print short, medium, and long-term goals.
  *
  * Project 1
- * @author Christinaa Danks
+ * @author Christina L
  * @version 8/19/2020
  */
 public class MyLifeGoals {

@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.text.DecimalFormat;
 /**
  * stores the name of the list and an ArrayList of objects.
- * @author Christinaa Danks
+ * @author Christina L
  * @version 9/17/2020
  */
 public class DodecahedronList {

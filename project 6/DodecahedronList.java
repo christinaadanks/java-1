@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.File;
 /**
  * stores the name of the list and an ArrayList of objects.
- * @author Christinaa Danks
+ * @author Christina L
  * @version 9/26/2020
  */
 public class DodecahedronList {

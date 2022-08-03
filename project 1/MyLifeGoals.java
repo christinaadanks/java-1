@@ -14,7 +14,7 @@ public class MyLifeGoals {
    public static void main(String[] args) {
       
       // Print first and last name.
-      System.out.println("Christinaa Danks");
+      System.out.println("Christina L");
       System.out.println();
       
       // Print short-term life goals.

@@ -2,7 +2,7 @@
  * Program to print the letter J as a large block letter.
  *
  * Project 1
- * @author Christinaa Danks
+ * @author Christina L
  * @version 8/19/2020
  */
 

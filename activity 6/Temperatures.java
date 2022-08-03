@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Christinaa Danks
+ * @author Christina L
  * @version 9/23/2020
  */
 

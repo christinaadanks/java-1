@@ -2,7 +2,7 @@ import java.util.Scanner;
 /**
  * Program that exchanges letters in a String to encode a message.
  *
- * @author Christinaa Danks
+ * @author Christina L
  * @version 8/31/2020
  */
  

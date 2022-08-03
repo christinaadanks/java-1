@@ -2,7 +2,7 @@ import java.util.Scanner;
 /**
  * Driver class for Dodecahedron.
  *
- * @author Christinaa Danks
+ * @author Christina L
  * @version 9/9/2020
  */
  

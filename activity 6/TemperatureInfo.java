@@ -3,7 +3,7 @@ import java.util.ArrayList;
 
 /**
  * Program that allows users to ineract with Temperatures class.
- * @author Christinaa Danks
+ * @author Christina L
  * @version 9/23/2020
  */
  
